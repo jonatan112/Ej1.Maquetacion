@@ -13,7 +13,7 @@ Uso del framework Bootstrap 4
 </head>
 <body>
 	<header class="jumbotron text-left">
-		<h1>CABECERA</h1>
+		<h1>LENGUAJE DE MARCAS</h1>
 	</header>  
 	<header class="container">
   <header class="row">
