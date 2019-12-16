@@ -35,7 +35,6 @@ Uso del framework Bootstrap 4
 		<section class="container">
 			<h2>Diferentes apartados sobre temas relacionados con Lenguaje de Marcas</h2>
 			<br>
-			<br>
 				<h3>HTML</h3>
 					<p>Es un lenguaje de marcado que se utiliza para el desarrollo de páginas de Internet.</p>
 		</section>
